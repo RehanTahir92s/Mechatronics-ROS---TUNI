@@ -1,0 +1,3 @@
+[console_scripts]
+motion_ctrl = motion_control.main:main
+recorder = motion_control.recorder:main

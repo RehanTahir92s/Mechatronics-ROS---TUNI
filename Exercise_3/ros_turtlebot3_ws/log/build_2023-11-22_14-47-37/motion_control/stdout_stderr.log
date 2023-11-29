@@ -1,0 +1,54 @@
+running egg_info
+creating ../../build/motion_control/motion_control.egg-info
+writing ../../build/motion_control/motion_control.egg-info/PKG-INFO
+writing dependency_links to ../../build/motion_control/motion_control.egg-info/dependency_links.txt
+writing entry points to ../../build/motion_control/motion_control.egg-info/entry_points.txt
+writing requirements to ../../build/motion_control/motion_control.egg-info/requires.txt
+writing top-level names to ../../build/motion_control/motion_control.egg-info/top_level.txt
+writing manifest file '../../build/motion_control/motion_control.egg-info/SOURCES.txt'
+reading manifest file '../../build/motion_control/motion_control.egg-info/SOURCES.txt'
+writing manifest file '../../build/motion_control/motion_control.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/bpresa/Mechatronics_and_Robot_Programming/Exercises/Exercise_03/Task_02/ros_turtlebot3_ws/build/motion_control/build
+creating /home/bpresa/Mechatronics_and_Robot_Programming/Exercises/Exercise_03/Task_02/ros_turtlebot3_ws/build/motion_control/build/lib
+creating /home/bpresa/Mechatronics_and_Robot_Programming/Exercises/Exercise_03/Task_02/ros_turtlebot3_ws/build/motion_control/build/lib/motion_control
+copying motion_control/__init__.py -> /home/bpresa/Mechatronics_and_Robot_Programming/Exercises/Exercise_03/Task_02/ros_turtlebot3_ws/build/motion_control/build/lib/motion_control
+copying motion_control/turtlebot3_path.py -> /home/bpresa/Mechatronics_and_Robot_Programming/Exercises/Exercise_03/Task_02/ros_turtlebot3_ws/build/motion_control/build/lib/motion_control
+copying motion_control/turtlebot3_position_control.py -> /home/bpresa/Mechatronics_and_Robot_Programming/Exercises/Exercise_03/Task_02/ros_turtlebot3_ws/build/motion_control/build/lib/motion_control
+copying motion_control/main.py -> /home/bpresa/Mechatronics_and_Robot_Programming/Exercises/Exercise_03/Task_02/ros_turtlebot3_ws/build/motion_control/build/lib/motion_control
+running install
+/home/bpresa/.local/lib/python3.10/site-packages/setuptools/_distutils/cmd.py:66: SetuptoolsDeprecationWarning: setup.py install is deprecated.
+!!
+
+        ********************************************************************************
+        Please avoid running ``setup.py`` directly.
+        Instead, use pypa/build, pypa/installer or other
+        standards-based tools.
+
+        See https://blog.ganssle.io/articles/2021/10/setup-py-deprecated.html for details.
+        ********************************************************************************
+
+!!
+  self.initialize_options()
+running install_lib
+creating /home/bpresa/Mechatronics_and_Robot_Programming/Exercises/Exercise_03/Task_02/ros_turtlebot3_ws/install/motion_control/lib/python3.10/site-packages/motion_control
+copying /home/bpresa/Mechatronics_and_Robot_Programming/Exercises/Exercise_03/Task_02/ros_turtlebot3_ws/build/motion_control/build/lib/motion_control/__init__.py -> /home/bpresa/Mechatronics_and_Robot_Programming/Exercises/Exercise_03/Task_02/ros_turtlebot3_ws/install/motion_control/lib/python3.10/site-packages/motion_control
+copying /home/bpresa/Mechatronics_and_Robot_Programming/Exercises/Exercise_03/Task_02/ros_turtlebot3_ws/build/motion_control/build/lib/motion_control/turtlebot3_path.py -> /home/bpresa/Mechatronics_and_Robot_Programming/Exercises/Exercise_03/Task_02/ros_turtlebot3_ws/install/motion_control/lib/python3.10/site-packages/motion_control
+copying /home/bpresa/Mechatronics_and_Robot_Programming/Exercises/Exercise_03/Task_02/ros_turtlebot3_ws/build/motion_control/build/lib/motion_control/turtlebot3_position_control.py -> /home/bpresa/Mechatronics_and_Robot_Programming/Exercises/Exercise_03/Task_02/ros_turtlebot3_ws/install/motion_control/lib/python3.10/site-packages/motion_control
+copying /home/bpresa/Mechatronics_and_Robot_Programming/Exercises/Exercise_03/Task_02/ros_turtlebot3_ws/build/motion_control/build/lib/motion_control/main.py -> /home/bpresa/Mechatronics_and_Robot_Programming/Exercises/Exercise_03/Task_02/ros_turtlebot3_ws/install/motion_control/lib/python3.10/site-packages/motion_control
+byte-compiling /home/bpresa/Mechatronics_and_Robot_Programming/Exercises/Exercise_03/Task_02/ros_turtlebot3_ws/install/motion_control/lib/python3.10/site-packages/motion_control/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/bpresa/Mechatronics_and_Robot_Programming/Exercises/Exercise_03/Task_02/ros_turtlebot3_ws/install/motion_control/lib/python3.10/site-packages/motion_control/turtlebot3_path.py to turtlebot3_path.cpython-310.pyc
+byte-compiling /home/bpresa/Mechatronics_and_Robot_Programming/Exercises/Exercise_03/Task_02/ros_turtlebot3_ws/install/motion_control/lib/python3.10/site-packages/motion_control/turtlebot3_position_control.py to turtlebot3_position_control.cpython-310.pyc
+byte-compiling /home/bpresa/Mechatronics_and_Robot_Programming/Exercises/Exercise_03/Task_02/ros_turtlebot3_ws/install/motion_control/lib/python3.10/site-packages/motion_control/main.py to main.cpython-310.pyc
+running install_data
+creating /home/bpresa/Mechatronics_and_Robot_Programming/Exercises/Exercise_03/Task_02/ros_turtlebot3_ws/install/motion_control/share/ament_index
+creating /home/bpresa/Mechatronics_and_Robot_Programming/Exercises/Exercise_03/Task_02/ros_turtlebot3_ws/install/motion_control/share/ament_index/resource_index
+creating /home/bpresa/Mechatronics_and_Robot_Programming/Exercises/Exercise_03/Task_02/ros_turtlebot3_ws/install/motion_control/share/ament_index/resource_index/packages
+copying resource/motion_control -> /home/bpresa/Mechatronics_and_Robot_Programming/Exercises/Exercise_03/Task_02/ros_turtlebot3_ws/install/motion_control/share/ament_index/resource_index/packages
+copying package.xml -> /home/bpresa/Mechatronics_and_Robot_Programming/Exercises/Exercise_03/Task_02/ros_turtlebot3_ws/install/motion_control/share/motion_control
+running install_egg_info
+Copying ../../build/motion_control/motion_control.egg-info to /home/bpresa/Mechatronics_and_Robot_Programming/Exercises/Exercise_03/Task_02/ros_turtlebot3_ws/install/motion_control/lib/python3.10/site-packages/motion_control-0.0.0-py3.10.egg-info
+running install_scripts
+Installing navg_ctrl script to /home/bpresa/Mechatronics_and_Robot_Programming/Exercises/Exercise_03/Task_02/ros_turtlebot3_ws/install/motion_control/lib/motion_control
+writing list of installed files to '/home/bpresa/Mechatronics_and_Robot_Programming/Exercises/Exercise_03/Task_02/ros_turtlebot3_ws/build/motion_control/install.log'

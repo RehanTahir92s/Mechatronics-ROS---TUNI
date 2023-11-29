@@ -1,0 +1,37 @@
+[1.661s] Invoking command in '/home/bpresa/Mechatronics_and_Robot_Programming/Exercises/Exercise_03/Task_02/ros_turtlebot3_ws/src/motion_control': PYTHONPATH=/home/bpresa/Mechatronics_and_Robot_Programming/Exercises/Exercise_03/Task_02/ros_turtlebot3_ws/build/motion_control/prefix_override:/home/bpresa/Mechatronics_and_Robot_Programming/Exercises/Exercise_03/Task_02/ros_turtlebot3_ws/install/motion_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/motion_control build --build-base /home/bpresa/Mechatronics_and_Robot_Programming/Exercises/Exercise_03/Task_02/ros_turtlebot3_ws/build/motion_control/build install --record /home/bpresa/Mechatronics_and_Robot_Programming/Exercises/Exercise_03/Task_02/ros_turtlebot3_ws/build/motion_control/install.log --single-version-externally-managed
+[2.095s] running egg_info
+[2.127s] writing ../../build/motion_control/motion_control.egg-info/PKG-INFO
+[2.128s] writing dependency_links to ../../build/motion_control/motion_control.egg-info/dependency_links.txt
+[2.128s] writing entry points to ../../build/motion_control/motion_control.egg-info/entry_points.txt
+[2.128s] writing requirements to ../../build/motion_control/motion_control.egg-info/requires.txt
+[2.128s] writing top-level names to ../../build/motion_control/motion_control.egg-info/top_level.txt
+[2.223s] reading manifest file '../../build/motion_control/motion_control.egg-info/SOURCES.txt'
+[2.226s] writing manifest file '../../build/motion_control/motion_control.egg-info/SOURCES.txt'
+[2.226s] running build
+[2.227s] running build_py
+[2.227s] copying motion_control/turtlebot3_position_control.py -> /home/bpresa/Mechatronics_and_Robot_Programming/Exercises/Exercise_03/Task_02/ros_turtlebot3_ws/build/motion_control/build/lib/motion_control
+[2.228s] running install
+[2.229s] /home/bpresa/.local/lib/python3.10/site-packages/setuptools/_distutils/cmd.py:66: SetuptoolsDeprecationWarning: setup.py install is deprecated.
+[2.229s] !!
+[2.229s] 
+[2.229s]         ********************************************************************************
+[2.229s]         Please avoid running ``setup.py`` directly.
+[2.229s]         Instead, use pypa/build, pypa/installer or other
+[2.229s]         standards-based tools.
+[2.229s] 
+[2.229s]         See https://blog.ganssle.io/articles/2021/10/setup-py-deprecated.html for details.
+[2.230s]         ********************************************************************************
+[2.230s] 
+[2.230s] !!
+[2.230s]   self.initialize_options()
+[2.248s] running install_lib
+[2.293s] copying /home/bpresa/Mechatronics_and_Robot_Programming/Exercises/Exercise_03/Task_02/ros_turtlebot3_ws/build/motion_control/build/lib/motion_control/turtlebot3_position_control.py -> /home/bpresa/Mechatronics_and_Robot_Programming/Exercises/Exercise_03/Task_02/ros_turtlebot3_ws/install/motion_control/lib/python3.10/site-packages/motion_control
+[2.295s] byte-compiling /home/bpresa/Mechatronics_and_Robot_Programming/Exercises/Exercise_03/Task_02/ros_turtlebot3_ws/install/motion_control/lib/python3.10/site-packages/motion_control/turtlebot3_position_control.py to turtlebot3_position_control.cpython-310.pyc
+[2.297s] running install_data
+[2.343s] running install_egg_info
+[2.384s] removing '/home/bpresa/Mechatronics_and_Robot_Programming/Exercises/Exercise_03/Task_02/ros_turtlebot3_ws/install/motion_control/lib/python3.10/site-packages/motion_control-0.0.0-py3.10.egg-info' (and everything under it)
+[2.384s] Copying ../../build/motion_control/motion_control.egg-info to /home/bpresa/Mechatronics_and_Robot_Programming/Exercises/Exercise_03/Task_02/ros_turtlebot3_ws/install/motion_control/lib/python3.10/site-packages/motion_control-0.0.0-py3.10.egg-info
+[2.386s] running install_scripts
+[2.700s] Installing motion_ctrl script to /home/bpresa/Mechatronics_and_Robot_Programming/Exercises/Exercise_03/Task_02/ros_turtlebot3_ws/install/motion_control/lib/motion_control
+[2.702s] writing list of installed files to '/home/bpresa/Mechatronics_and_Robot_Programming/Exercises/Exercise_03/Task_02/ros_turtlebot3_ws/build/motion_control/install.log'
+[2.774s] Invoked command in '/home/bpresa/Mechatronics_and_Robot_Programming/Exercises/Exercise_03/Task_02/ros_turtlebot3_ws/src/motion_control' returned '0': PYTHONPATH=/home/bpresa/Mechatronics_and_Robot_Programming/Exercises/Exercise_03/Task_02/ros_turtlebot3_ws/build/motion_control/prefix_override:/home/bpresa/Mechatronics_and_Robot_Programming/Exercises/Exercise_03/Task_02/ros_turtlebot3_ws/install/motion_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/motion_control build --build-base /home/bpresa/Mechatronics_and_Robot_Programming/Exercises/Exercise_03/Task_02/ros_turtlebot3_ws/build/motion_control/build install --record /home/bpresa/Mechatronics_and_Robot_Programming/Exercises/Exercise_03/Task_02/ros_turtlebot3_ws/build/motion_control/install.log --single-version-externally-managed

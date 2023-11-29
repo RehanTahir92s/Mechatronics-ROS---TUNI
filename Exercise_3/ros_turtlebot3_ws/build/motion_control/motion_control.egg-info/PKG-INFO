@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: motion-control
+Version: 0.0.0
+Summary: TODO: Package description
+Maintainer: bpresa
+Maintainer-email: rehantahir.sabbih@tuni.fi
+License: TODO: License declaration
+Requires-Dist: setuptools
